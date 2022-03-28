@@ -1,5 +1,5 @@
     # #######################################################
-    #/ Graph modelisation and Djikstra shortest path solver
+    #/ Graph modeling and Djikstra shortest path solver
     # #######################################################
 import math
 import copy
